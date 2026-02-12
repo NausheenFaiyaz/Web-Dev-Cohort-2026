@@ -1,7 +1,6 @@
 # 🌐 Web-Dev-Cohort-2026
 
-<img src="cohort.webp">
-<img src="2026_Web_Dev_Cohort.webp">
+<img src="2026_Web_Dev_Cohort.jpg">
 
 
 This repository contains **all my assignments, practice work, and blog links** created during the **Web Development Cohort 2026 by Chai Aur Code** ☕💻.
