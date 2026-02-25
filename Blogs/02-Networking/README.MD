@@ -1,0 +1,56 @@
+# 🌐 Networking Blogs
+## [Understanding Network Devices](https://codexninja.hashnode.dev/understanding-network-devices)
+
+<a href="https://codexninja.hashnode.dev/understanding-network-devices">
+      <p align=center>
+      <img width = "500px" alt="Understanding Network Devices" src="../Assets/Understanding Network Devices.png">
+    <p>
+  </a>
+
+## [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://codexninja.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http)
+
+<a href="https://codexninja.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http">
+      <p align=center>
+      <img width = "500px" alt="TCP vs UDP: When to Use What, and How TCP Relates to HTTP" src="../Assets/tcp vs udp.png">
+    <p>
+  </a>
+
+## [How DNS Resolution Works](https://codexninja.hashnode.dev/how-dns-resolution-works)
+
+<a href="https://codexninja.hashnode.dev/how-dns-resolution-works">
+      <p align=center>
+      <img width = "500px" alt="How DNS Resolution Works" src="../Assets/How DNS Resolution Works.png">
+    <p>
+  </a>
+
+## [DNS Record Types Explained From Confusion to Clarity](https://codexninja.hashnode.dev/dns-record-types-explained-from-confusion-to-clarity)
+
+<a href="https://codexninja.hashnode.dev/dns-record-types-explained-from-confusion-to-clarity">
+      <p align=center>
+      <img width = "500px" alt="DNS Record Types Explained From Confusion to Clarity" src="../Assets/DNS Record Types Explained.png">
+    <p>
+  </a>
+
+## [Getting Started with cURL](https://codexninja.hashnode.dev/getting-started-with-curl)
+
+<a href="https://codexninja.hashnode.dev/getting-started-with-curl">
+      <p align=center>
+      <img width = "500px" alt="Getting Started with cURL" src="../Assets/Getting Started with cURL.png">
+    <p>
+  </a>
+
+## [TCP Working: 3-Way Handshake & Reliable Communication](https://codexninja.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication)
+
+<a href="https://codexninja.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication">
+      <p align=center>
+      <img width = "500px" alt="TCP Working: 3-Way Handshake & Reliable Communication" src="../Assets/TCP Working 3-Way Handshake & Reliable Communication.png">
+    <p>
+  </a>
+
+## [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://codexninja.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals)
+
+<a href="https://codexninja.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals">
+      <p align=center>
+      <img width = "500px" alt="How a Browser Works: A Beginner-Friendly Guide to Browser Internals" src="../Assets/How a Browser Works.png">
+    <p>
+  </a>
