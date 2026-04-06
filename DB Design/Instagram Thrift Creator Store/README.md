@@ -204,4 +204,8 @@ It balances:
 ![ER Diagram](ERD.png)
 
 ---
+## 🧾 Full Schema
 
+For the complete schema definition:
+
+[View Full Schema](./schema.md)
