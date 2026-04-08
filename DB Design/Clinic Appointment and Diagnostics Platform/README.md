@@ -6,7 +6,7 @@
 
 This project presents an ER Diagram for a clinic management system that handles appointments, consultations, diagnostic tests, reports, and payments.
 
-The goal was to model a real-world clinic workflow where patients can book appointments, consult doctors, undergo prescribed tests, and receive reports — all in a structured and scalable database design.
+The goal was to model a real-world clinic workflow where patients can book appointments, consult doctors, undergo prescribed tests, and receive reports all in a structured and scalable database design.
 
 ---
 
