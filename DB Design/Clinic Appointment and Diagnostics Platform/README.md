@@ -1,6 +1,6 @@
-# 🏥 Clinic Appointment & Diagnostics Platform – ER Diagram
+# 🏥 Clinic Appointment & Diagnostics Platform - ER Diagram
 
-> Designed as part of Web Dev Cohort 2026 – Database Assignment
+> Designed as part of Web Dev Cohort 2026 - Database Assignment
 
 ## 📌 Overview
 
